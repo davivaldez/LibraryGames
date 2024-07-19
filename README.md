@@ -68,7 +68,7 @@ A Library Games foi um projeto desenvolvido com o objetivo de adicionar e remove
 
 ### Adicionando um jogo
 
-#### Coloque o título do jogo e uma URL da capa do jogo e clique em "Adicionar à biblioteca"
+#### Coloque o título do jogo e uma URL da capa do jogo e clique em "Adicionar à biblioteca".
 
 <p align="center">
     <img src="./previews/added-game.PNG" alt="Added Game">
@@ -76,7 +76,7 @@ A Library Games foi um projeto desenvolvido com o objetivo de adicionar e remove
 
 ### Removendo um jogo
 
-#### Clique em "Remover" para remover o jogo da biblioteca
+#### Clique em "Remover" para remover o jogo da biblioteca.
 
 <p align="center">
     <img src="./previews/remove-game.PNG" alt="Remove Game">

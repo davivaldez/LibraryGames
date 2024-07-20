@@ -35,6 +35,7 @@ A Library Games foi um projeto desenvolvido com o objetivo de adicionar e remove
 - React.
 - JavaScript.
 - CSS.
+- Vite.
 
 ## Instalação
 

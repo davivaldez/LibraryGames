@@ -30,8 +30,6 @@ export default function NewGameForm({ addGame }) {
     addGame({ title, cover });
     setTitle("");
     setCover("");
-    setTitlePlaceholder("Nome do jogo");
-    setCoverPlaceholder("Capa do jogo");
   };
 
   return (
